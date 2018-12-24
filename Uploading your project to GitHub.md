@@ -28,7 +28,7 @@ close issue 进入step 3。
 
 ###  Activity: Moving your local project
 
-打开`Code`标签，复制`Quick Setup` 后面的  URL（`https://github.com/用户名/github-upload.git`）。
+打开`Code`标签，复制`Quick Setup` 后面的  URL（`https://github.com/用户名/仓库名.git`）。
 
 ### 命令行
 
@@ -95,3 +95,7 @@ close issue 进入step 3。
 推送完仓库后进入下一步。
 
 
+
+## Step 4: Private or Public?
+
+介绍私人仓库和公共仓库的区别
